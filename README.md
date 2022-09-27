@@ -29,6 +29,7 @@ Durante la planificación de un proyecto se han acordado una lista de tareas. Pa
 Sugerencia
 Para ordenar automáticamente una lista es posible utilizar el método .sort(), deberias probarlo.
 
+
 # Ejercicio 5
 Crea un script llamado descomposicion.py que realice las siguientes tareas:
 Debe tomar 1 argumento que será un número entero positivo.
